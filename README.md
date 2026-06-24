@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aayu23shetty/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aayu23shetty/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayu23shetty/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Aayu23shetty/LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Aayu23shetty/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayu23shetty/LeetCode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Aayu23shetty/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
