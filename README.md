@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aayu23shetty/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayu23shetty/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aayu23shetty/LeetCode/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Aayu23shetty/LeetCode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aayu23shetty/LeetCode/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Aayu23shetty/LeetCode/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayu23shetty/LeetCode/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/Aayu23shetty/LeetCode/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aayu23shetty/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Aayu23shetty/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
